@@ -1,0 +1,5 @@
+#define mymc "#3A86FF"
+#define mysc "#5F5FF6"
+#define mybg "#282828"
+#define myblack "#233448"
+#define mylight "#edf2f8"
